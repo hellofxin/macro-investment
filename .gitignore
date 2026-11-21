@@ -1,0 +1,9 @@
+# 行情缓存（tools/portfolio_pnl.py 自动生成）
+tools/.cache/
+
+# 临时导出
+tools/*.csv
+
+# Python 缓存
+__pycache__/
+*.pyc
